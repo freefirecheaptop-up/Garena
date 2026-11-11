@@ -1,0 +1,6 @@
+{
+  "name": "Free Fire Diamond Top-Up Store",
+  "description": "Official-style premium Free Fire Diamond top-up portal with instant player UID delivery, 50% discount on all diamond packages, and secure Rupayex checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
